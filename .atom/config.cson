@@ -1,0 +1,51 @@
+"*":
+  "atom-ide-ui":
+    "atom-ide-diagnostics-ui":
+      autoVisibility: true
+  "autocomplete-python":
+    pythonPaths: "C:\\Users\\derri\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
+    showDescriptions: false
+    useKite: false
+    useSnippets: "all"
+  "autocomplete-python-jedi":
+    useSnippets: "all"
+  "build-python":
+    customInterpreter: "C:\\Users\\derri\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
+  core:
+    disabledPackages: [
+      "linter"
+    ]
+    telemetryConsent: "no"
+    uriHandlerRegistration: "always"
+  "exception-reporting":
+    userId: "40243124-4957-4471-b8aa-e24cd795c773"
+  "ide-python":
+    pylsPlugins:
+      pydocstyle:
+        enabled: true
+    python: "C:\\Users\\derri\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
+  "linter-ui-default":
+    panelHeight: 266
+  "python-debugger":
+    pythonExecutable: "C:\\Users\\derri\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
+  "python-indent":
+    hangingIndentTabs: 2
+  "python-tools":
+    pythonPath: "C:\\Users\\derri\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
+  typewriter:
+    enabledForAllScopes: true
+    showGutter: true
+    showScrollbar: true
+".console.python.text":
+  editor:
+    showIndentGuide: true
+    softWrapAtPreferredLineLength: true
+".python.regexp.source":
+  editor:
+    showIndentGuide: true
+".python.source":
+  editor:
+    showIndentGuide: true
+".python.text.traceback":
+  editor:
+    showIndentGuide: true
